@@ -1,0 +1,3 @@
+/home/bethiane/Documents/DSA/Gen-Z/cmake-build-debug/CMakeFiles/Gen_Z.dir
+/home/bethiane/Documents/DSA/Gen-Z/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bethiane/Documents/DSA/Gen-Z/cmake-build-debug/CMakeFiles/rebuild_cache.dir
